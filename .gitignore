@@ -1,3 +1,4 @@
 .ipynb_checkpoints
+in_progress
 temp_files/*
 !temp_files/.gitkeep
